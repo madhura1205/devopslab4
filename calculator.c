@@ -5,7 +5,7 @@ int add(int a, int b) {
 }
 
 int main() {
-    int x = 10, y = 5;
+    int x = 99, y = 88;
     printf("Sum: %d\n", add(x, y));
     return 0;
 }
