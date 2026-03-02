@@ -7,7 +7,7 @@ int subtract(int a, int b) {
     return a - b;
 }
 int main() {
-    int x = 10, y = 5;
+    int x = 0, y = 0;
     printf("Sum: %d\n", add(x, y));
     printf("Subtraction: %d\n", subtract(x, y));
     return 0;
